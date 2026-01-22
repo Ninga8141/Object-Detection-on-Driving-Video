@@ -135,5 +135,5 @@ Model inference optimization
 
 Git & GitHub workflow
 
-Project documentation and structuring
+
 - 
