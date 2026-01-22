@@ -53,7 +53,18 @@ After: Take a screenshot from output_detected.mp4 (with bounding boxes)
 - ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/a56b65f566d9c6ed9f5b27649168d8ec8c6207f6/Screenshots/Screenshot%20(16).png)
 - ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/05d377ecc4d306cdd36b86b895d0cff514be45e2/Screenshots/Screenshot%20(12).png)
 
-- <!-- Uploading "Screen Recording 2026-01-22 192418.mp4"... -->
+Results: After Detection
+
+The output video shows detected objects with bounding boxes, class labels, and confidence scores.
+
+Output video file: video/output_detected.mp4
+
+You can play it using any media player to see detections in action.
+
+### After Detection Video
+
+You can watch the processed video with YOLOv8 detections here:
+[Watch Output Video] (https://github.com/user-attachments/assets/106f1881-e1db-4305-8fe8-f3fd52337576)
 
   ## ⚙️ Installation & Setup
 
