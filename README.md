@@ -50,6 +50,7 @@ Python-based project structuring
 - 
 After: Take a screenshot from output_detected.mp4 (with bounding boxes)
 - ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/a56b65f566d9c6ed9f5b27649168d8ec8c6207f6/Screenshots/Screenshot%20(16).png)
+- ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/05d377ecc4d306cdd36b86b895d0cff514be45e2/Screenshots/Screenshot%20(12).png)
 
   ## ⚙️ Installation & Setup
 
