@@ -44,6 +44,7 @@ Python-based project structuring
 - **Ultralytics YOLOv8** – object detection
 - **NumPy**
 - **Git & GitHub** – version control
+- ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/e76e92a14dcad3d3847cfbea449d2805335e38b8/Screenshots/Screenshot%20(21).png)
 
   ## ⚙️ Installation & Setup
 
