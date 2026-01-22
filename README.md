@@ -137,5 +137,15 @@ Model inference optimization
 
 Git & GitHub workflow
 
+Optional Additions for Extra Impact
+
+Average FPS achieved (mention 640×360 or any other resolution)
+
+Mention that YOLOv8 Nano is lightweight and fast
+
+Add a short one-line summary at the top for HR-friendly view:
+
+“A Python-based object detection pipeline that processes driving videos in real time using YOLOv8, highlighting vehicles and pedestrians with bounding boxes.”
+
 
 - 
