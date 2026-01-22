@@ -46,6 +46,8 @@ Python-based project structuring
 - **Git & GitHub** – version control
 - ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/e76e92a14dcad3d3847cfbea449d2805335e38b8/Screenshots/Screenshot%20(21).png)
 
+- ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/a56b65f566d9c6ed9f5b27649168d8ec8c6207f6/Screenshots/Screenshot%20(16).png)
+
   ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
