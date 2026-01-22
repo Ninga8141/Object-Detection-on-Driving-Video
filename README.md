@@ -46,6 +46,7 @@ Python-based project structuring
 - **Git & GitHub** – version control
 - 
 - Before: Take a screenshot of the original video frame
+- ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/18ce3e2f3c823df7d88267cb849dacc24bee98b7/Screenshots/Screenshot%20(25).png)
 - ![image alt](https://github.com/Ninga8141/Object-Detection-on-Driving-Video/blob/e76e92a14dcad3d3847cfbea449d2805335e38b8/Screenshots/Screenshot%20(21).png)
 - 
 After: Take a screenshot from output_detected.mp4 (with bounding boxes)
